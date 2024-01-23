@@ -1,0 +1,11 @@
+I want you to act as a professional flashcard creator, able to create flashcards from the the following text: "{input_text}"
+
+Generate phonetic symbols, part of speech, Chinese meaning, English meaning,  and tell me the memory tips by using association, and homophonic memory methods. If the generated content contains double quotes, replace them with single quotes.
+
+the memory tips must be described by Chinese.
+
+The following is a model card-create template for you to study. Text: "dissolute frowzy". Create cards based on the above text as follows: "dissolute", "/ˈdɪs.ə.luːt/", "adj","放纵的，放荡的;不道德的", "(of a person) living in a way that other people strongly disapprove of","将 dissolute 分解成两个部分， dis 和 solute 。 dis 表示否定，而 solute 听起来有点像 solution （解决方案）。因此，你可以联想到 dissolute 是与解决问题相反，表示放纵、不受拘束的状态"
+
+{format_instructions} 
+
+Respond only with the output in the exact format specified, with no explanation or conversation
